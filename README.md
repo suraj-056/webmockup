@@ -1,4 +1,4 @@
-# webmockup2
+# webmockup
 
 ## About the project
 
