@@ -36,4 +36,4 @@ this is a complete three page website all three pages are different from each ot
 
  2. Clone the repository by running following command in git:
 
-        $ git clone https://github.com/[YOUR-USERNAME]/webmockup2.git
+        $ git clone https://github.com/[YOUR-USERNAME]/webmockup.git
